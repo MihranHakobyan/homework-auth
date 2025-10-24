@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Mihran",
+    "surName": "Hakobyan",
+    "login": "mh123123",
+    "password": "$2b$10$bCmHLYj4vS4P7nfKbvH1jO36iFbqoI/HQlpX0iMSZf3ZsUn0aQiW."
+  },
+  {
+    "id": 2,
+    "name": "Vardan",
+    "surName": "Vardanyan",
+    "login": "Kdahjsbjb",
+    "password": "$2b$10$Xzu8YKPAu1E/iombBXW1reA9guAcVVKzVvYdNFTAWg6mIk/8QZh9C"
+  },
+  {
+    "id": 3,
+    "name": "Vardan",
+    "surName": "Vardanyan",
+    "login": "Vrd5s55",
+    "password": "$2b$10$gzhI7w7hgEbmwqckXec4keTzhY3qgpYOS2UOkQe7Tyevt5ap4OUYi"
+  }
+]
